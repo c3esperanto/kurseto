@@ -60,6 +60,7 @@ Examples:
 ### Affixes
 
 *-eg-*: granda → grand*eg*a
+
 *mal-*: granda -> *mal*granda
 
 ## Resources
@@ -72,7 +73,7 @@ Examples:
 ### Music
 
 * [Awesome Esperanto music videos](https://www.youtube.com/watch?v=gWiH8BlpU0U&list=PLLg4HNcQo8zx3IMEXcrnRCkEhyXWDDf37)
-* [Vinilkosmo -- Music label](https://www.vinilkosmo-mp3.com/en/)
+* [Vinilkosmo – Music label](https://www.vinilkosmo-mp3.com/en/)
 
 ### Congresses meetups
 
