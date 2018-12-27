@@ -1,5 +1,7 @@
 # Esperanto course at 35c3
 
+![](35c3_esperanto.svg){ width=33% }
+
 ## Quick facts
 
 * released 1887 by L. L. Zamenhof, Poland (at the time Russia)
