@@ -43,8 +43,8 @@
 
 ### Adjectives
 
-* *-a* (bela, granda, ruĝa, verda, nigra, blanka, dolĉa, rapida)
-* plural: *-j* (belaj, grandaj, ruĝaj, verdaj, nigraj, blankaj, dolĉaj, rapida)
+* *-a* (bela, granda, ruĝa, verda, kongresa, dolĉa, plaĉa)
+* plural: *-j* (belaj, grandaj, ruĝaj, verdaj, kongresaj, dolĉaj, plaĉaj)
 
 ### Accusative
 
