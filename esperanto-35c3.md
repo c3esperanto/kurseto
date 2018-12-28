@@ -63,6 +63,17 @@ Examples:
 
 *mal-*: granda -> *mal*granda
 
+
+### The power of affixes
+
+|        | -in-       | -id-       | -ar-       |
+|:-------|:-----------|:-----------|:-----------|
+| ŝafo   | ŝaf*in*o   | ŝaf*id*o   | ŝaf*ar*o   |
+| hundo  | hund*in*o  | hund*id*o  | hund*ar*o  |
+| bovo   | bov*in*o   | bov*id*o   | bov*ar*o   |
+| ĉevalo | ĉeval*in*o | ĉeval*id*o | ĉeval*ar*o |
+
+
 ## Resources
 
 ### Learning
