@@ -74,6 +74,14 @@ Examples:
 | ĉevalo | ĉeval*in*o | ĉeval*id*o | ĉeval*ar*o |
 
 
+|        | -il-     | -ej-     | -ist-     | -ind-     | -em-     | -il-ar-    | -em-ul-    |
+|:-------|:---------|:---------|:----------|:----------|:---------|:-----------|:-----------|
+| lerni  | lernilo  | lernejo  | lernisto  | lerninda  | lernema  | lernilaro  | lernemulo  |
+| manĝi  | manĝilo  | manĝejo  | manĝisto  | manĝinda  | manĝema  | manĝilaro  | manĝemulo  |
+| muziko | muzikilo | muzikejo | muzikisto | muzikinda | muzikema | muzikilaro | muzikemulo |
+| naĝi   | naĝilo   | naĝejo   | naĝisto   | naĝinda   | naĝema   | naĝilaro   | naĝemulo   |
+| haki   | hakilo   | hakejo   | hakisto   | hakinda   | hakema   | hakilaro   | hakemulo   |
+
 ## Resources
 
 ### Learning
