@@ -10,7 +10,7 @@
   ...)
 * phonetical alphabet
 * 2/3 of word roots are romanic, 1/3 germanic (also some slavic, acient greek, hebrew)
-
+* simplistic grammar
 
 ## Simple dialog
 
