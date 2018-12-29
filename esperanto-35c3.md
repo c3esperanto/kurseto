@@ -71,13 +71,13 @@ Examples:
 
 ### The power of affixes
 
-|        |         | -in-       | -id-       | -ar-       | -ej-       | -ist-       |
-|:-------|:--------|:-----------|:-----------|:-----------|:-----------|:------------|
-|        |         | *female*   | *offspring*| *group*    | *place*    | *profession*|
-| ŝafo   | *sheep* | ŝaf*in*o   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
-| hundo  | *dog*   | hund*in*o  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
-| bovo   | *cow*   | bov*in*o   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |
-| ĉevalo | *horse* | ĉeval*in*o | ĉeval*id*o | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
+|        |         | -in-       | vir-        | -id-       | -ar-       | -ej-       | -ist-       |
+|:-------|:--------|:-----------|:------------|:-----------|:-----------|:-----------|:------------|
+|        |         | *female*   | *male*      | *offspring*| *group*    | *place*    | *profession*|
+| ŝafo   | *sheep* | ŝaf*in*o   | *vir*ŝafo   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
+| hundo  | *dog*   | hund*in*o  | *vir*hundo  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
+| bovo   | *cow*   | bov*in*o   | *vir*bovo   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |
+| ĉevalo | *horse* | ĉeval*in*o | *vir*ĉevalo | ĉeval*id*o | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
 
 
 |        |         | -il-       | -ej-       | -ist-       | -ind-       | -em-       | -il-ar-      | -em-ul-      |
