@@ -22,9 +22,12 @@
 ## Let's deduce some gramar basics
 
 ### Personal pronouns
+singular:
 * mi
 * vi
 * li/ŝi/ĝi
+
+plural:
 * ni
 * vi
 * ili
