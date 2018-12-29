@@ -113,6 +113,13 @@ Examples:
 * [lernu](https://lernu.net)
 * [Wikipedia in Esperanto](https://eo.wikipedia.org)
 
+### Groups
+
+* [Telegram](https://telegramo.org)
+* [reddit](https://reddit.com/r/esperanto)
+* [StackExchange](https://esperanto.stackexchange.com)
+* [Mastodon instance](https://esperanto.masto.host)
+
 ### Music
 
 * [Awesome Esperanto music videos](https://www.youtube.com/playlist?list=PLLg4HNcQo8zx3IMEXcrnRCkEhyXWDDf37)
