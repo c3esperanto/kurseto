@@ -6,7 +6,9 @@
 * released 1887 by L. L. Zamenhof, Poland (at the time Russia)
 * number of speakers; $10^3$ natives, $10^5$ fluent regulars, $10^6$ "started to
   learn"
-* language code: *eo*, *epo* (lots of localized software: wordpress, ...)
+* language code: *eo*, *epo* (lots of localized software: wordpress, hunspell,
+  ...)
+* phonetical alphabet
 
 
 ## Simple dialog
