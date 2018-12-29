@@ -105,8 +105,12 @@ Examples:
 
 ### Music
 
-* [Awesome Esperanto music videos](https://www.youtube.com/watch?v=gWiH8BlpU0U&list=PLLg4HNcQo8zx3IMEXcrnRCkEhyXWDDf37)
+* [Awesome Esperanto music videos](https://www.youtube.com/playlist?list=PLLg4HNcQo8zx3IMEXcrnRCkEhyXWDDf37)
 * [Vinilkosmo – Music label](https://www.vinilkosmo-mp3.com/en/)
+
+### Videos podcasts etc.
+
+* [Studio](http://novajhoj.weebly.com/)
 
 ### Congresses meetups
 
