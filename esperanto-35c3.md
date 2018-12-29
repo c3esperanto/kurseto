@@ -136,6 +136,7 @@ Examples:
 ### Videos podcasts etc.
 
 * [Studio](http://novajhoj.weebly.com/)
+* [kern.punkto](https://kern.punkto.info) – our own podcast
 
 ### Congresses meetups
 
