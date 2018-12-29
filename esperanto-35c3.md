@@ -6,6 +6,7 @@
 * released 1887 by L. L. Zamenhof, Poland (at the time Russia)
 * $10^6$ speakers; $10^3$ natives, $10^6$ fluent regulars, $10^6$ "started to
   learn"
+* language code: *eo*, *epo* (lots of localized software: wordpress, ...)
 
 
 ## Simple dialog
