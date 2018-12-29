@@ -1,5 +1,5 @@
 # Esperanto course at 35c3
-![](35c3_esperanto.svg){ width=33% }
+![](35c3_esperanto.svg)
 
 ## Quick facts
 
@@ -8,8 +8,8 @@
   learn"
 * language code: *eo*, *epo* (lots of localized software: wordpress, hunspell,
   ...)
-* phonetical alphabet
-* 2/3 of word roots are romanic, 1/3 germanic (also some slavic, acient greek, hebrew)
+* phonetic alphabet
+* 2/3 of word roots are Romanic, 1/3 Germanic (also some Slavic, acient Greek, Hebrew)
 
 
 ## Simple dialog
@@ -20,7 +20,7 @@
 * Jes treege.
 
 
-## Let's deduce some gramar basics
+## Let's deduce some grammar basics
 
 ### Personal pronouns
 singular:
@@ -96,7 +96,7 @@ Examples:
 | haki   | *hack*  | hak*il*o   | hak*ej*o   | hak*ist*o   | hak*ind*a   | hak*em*a   | hak*ilar*o   | hak*emul*o   |
 
 
-### Korelatives
+### Correlatives
 
 |     |             | k-   | t-   | ĉ-    | nen-   |
 |:----|:------------|:-----|:-----|:------|:-------|
@@ -138,7 +138,7 @@ Examples:
 * [Studio](http://novajhoj.weebly.com/)
 * [kern.punkto](https://kern.punkto.info) – our own podcast
 
-### Congresses meetups
+### Congresses, meetups
 
 * [Esperanto world
   congress](https://en.wikipedia.org/wiki/World_Esperanto_Congress)
