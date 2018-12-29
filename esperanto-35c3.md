@@ -110,6 +110,7 @@ Examples:
 
 * [Duolingo](https://www.duolingo.com/course/eo/en)
 * [lernu](https://lernu.net)
+* [Wikipedia in Esperanto](https://eo.wikipedia.org)
 
 ### Music
 
