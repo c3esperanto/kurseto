@@ -1,5 +1,4 @@
 # Esperanto course at 35c3
-
 ![](35c3_esperanto.svg){ width=33% }
 
 ## Quick facts
@@ -66,21 +65,36 @@ Examples:
 
 ### The power of affixes
 
-|        | -in-       | -id-       | -ar-       |
-|:-------|:-----------|:-----------|:-----------|
-| ŝafo   | ŝaf*in*o   | ŝaf*id*o   | ŝaf*ar*o   |
-| hundo  | hund*in*o  | hund*id*o  | hund*ar*o  |
-| bovo   | bov*in*o   | bov*id*o   | bov*ar*o   |
-| ĉevalo | ĉeval*in*o | ĉeval*id*o | ĉeval*ar*o |
+|        | -in-       | -id-       | -ar-       | -ej-       | -ist-       |
+|:-------|:-----------|:-----------|:-----------|:-----------|:------------|
+| ŝafo   | ŝaf*in*o   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
+| hundo  | hund*in*o  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
+| bovo   | bov*in*o   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |
+| ĉevalo | ĉeval*in*o | ĉeval*id*o | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
 
 
-|        | -il-     | -ej-     | -ist-     | -ind-     | -em-     | -il-ar-    | -em-ul-    |
-|:-------|:---------|:---------|:----------|:----------|:---------|:-----------|:-----------|
-| lerni  | lernilo  | lernejo  | lernisto  | lerninda  | lernema  | lernilaro  | lernemulo  |
-| manĝi  | manĝilo  | manĝejo  | manĝisto  | manĝinda  | manĝema  | manĝilaro  | manĝemulo  |
-| muziko | muzikilo | muzikejo | muzikisto | muzikinda | muzikema | muzikilaro | muzikemulo |
-| naĝi   | naĝilo   | naĝejo   | naĝisto   | naĝinda   | naĝema   | naĝilaro   | naĝemulo   |
-| haki   | hakilo   | hakejo   | hakisto   | hakinda   | hakema   | hakilaro   | hakemulo   |
+|        | -il-       | -ej-       | -ist-       | -ind-       | -em-       | -il-ar-      | -em-ul-      |
+|:-------|:-----------|:-----------|:------------|:------------|:-----------|:-------------|:-------------|
+| lerni  | lern*il*o  | lern*ej*o  | lern*ist*o  | lern*ind*a  | lern*em*a  | lern*ilar*o  | lern*emul*o  |
+| manĝi  | manĝ*il*o  | manĝ*ej*o  | manĝ*ist*o  | manĝ*ind*a  | manĝ*em*a  | manĝ*ilar*o  | manĝ*emul*o  |
+| muziko | muzik*il*o | muzik*ej*o | muzik*ist*o | muzik*ind*a | muzik*em*a | muzik*ilar*o | muzik*emul*o |
+| naĝi   | naĝ*il*o   | naĝ*ej*o   | naĝ*ist*o   | naĝ*ind*a   | naĝ*em*a   | naĝ*ilar*o   | naĝ*emul*o   |
+| haki   | hak*il*o   | hak*ej*o   | hak*ist*o   | hak*ind*a   | hak*em*a   | hak*ilar*o   | hak*emul*o   |
+
+
+### Korelatives
+
+|     | k-   | t-   | ĉ-   | nen-   |
+|:----|:-----|:-----|:-----|:-------|
+| io  | kio  | tio  | ĉio  | nenio  |
+| iu  | kiu  | tiu  | ĉiu  | neniu  |
+| ia  | kia  | tia  | ĉia  | nenia  |
+| iel | kiel | tiel | ĉiel | neniel |
+| ie  | kie  | tie  | ĉie  | nenie  |
+| iam | kiam | tiam | ĉiam | neniam |
+| ial | kial | tial | ĉial | nenial |
+| iom | kiom | tiom | ĉiom | neniom |
+| ies | kies | ties | ĉies | nenies |
 
 ## Resources
 
