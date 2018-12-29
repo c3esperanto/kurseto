@@ -45,7 +45,7 @@ plural:
 ### Nouns
 
 * *-o* (kongreso, kurso, lingvo, tablo, seĝo, fenstro, pomo, ...)
-* plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenstroj, homoj, ...)
+* plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenstroj, pomoj, ...)
 
 ### Adjectives
 
@@ -125,6 +125,8 @@ Examples:
 * [reddit](https://reddit.com/r/esperanto)
 * [StackExchange](https://esperanto.stackexchange.com)
 * [Mastodon instance](https://esperanto.masto.host)
+* [Amikumu](https://amikumu.com) – an app to meet Esperanto speakers nearby
+* [Pasporta servo](https://pasportaservo.org) – a kind of Esperanto couch surfing
 
 ### Music
 
