@@ -45,6 +45,11 @@
 * *-a* (bela, granda, ruĝa, verda, kongresa, dolĉa, plaĉa)
 * plural: *-j* (belaj, grandaj, ruĝaj, verdaj, kongresaj, dolĉaj, plaĉaj)
 
+## Yes/No questions
+
+* Ĉu vi ŝatas la kongreson?
+* *Jes*, mi ŝatas la kongreson. / *Ne*, mi ne ŝatsa la kongreson.
+
 ### Accusative
 
 *-n*
