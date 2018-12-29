@@ -65,36 +65,39 @@ Examples:
 
 ### The power of affixes
 
-|        | -in-       | -id-       | -ar-       | -ej-       | -ist-       |
-|:-------|:-----------|:-----------|:-----------|:-----------|:------------|
-| ŝafo   | ŝaf*in*o   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
-| hundo  | hund*in*o  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
-| bovo   | bov*in*o   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |
-| ĉevalo | ĉeval*in*o | ĉeval*id*o | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
+|        |         | -in-       | -id-       | -ar-       | -ej-       | -ist-       |
+|:-------|:--------|:-----------|:-----------|:-----------|:-----------|:------------|
+|        |         | *female*   | *offspring*| *group*    | *place*    | *profession*|
+| ŝafo   | *sheep* | ŝaf*in*o   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
+| hundo  | *dog*   | hund*in*o  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
+| bovo   | *cow*   | bov*in*o   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |
+| ĉevalo | *horse* | ĉeval*in*o | ĉeval*id*o | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
 
 
-|        | -il-       | -ej-       | -ist-       | -ind-       | -em-       | -il-ar-      | -em-ul-      |
-|:-------|:-----------|:-----------|:------------|:------------|:-----------|:-------------|:-------------|
-| lerni  | lern*il*o  | lern*ej*o  | lern*ist*o  | lern*ind*a  | lern*em*a  | lern*ilar*o  | lern*emul*o  |
-| manĝi  | manĝ*il*o  | manĝ*ej*o  | manĝ*ist*o  | manĝ*ind*a  | manĝ*em*a  | manĝ*ilar*o  | manĝ*emul*o  |
-| muziko | muzik*il*o | muzik*ej*o | muzik*ist*o | muzik*ind*a | muzik*em*a | muzik*ilar*o | muzik*emul*o |
-| naĝi   | naĝ*il*o   | naĝ*ej*o   | naĝ*ist*o   | naĝ*ind*a   | naĝ*em*a   | naĝ*ilar*o   | naĝ*emul*o   |
-| haki   | hak*il*o   | hak*ej*o   | hak*ist*o   | hak*ind*a   | hak*em*a   | hak*ilar*o   | hak*emul*o   |
+|        |         | -il-       | -ej-       | -ist-       | -ind-       | -em-       | -il-ar-      | -em-ul-      |
+|:-------|:--------|:-----------|:-----------|:------------|:------------|:-----------|:-------------|:-------------|
+|        |         | *tool*     | *place*    | *profession*| *worth*     | *inclined* |              |              |
+| lerni  | *learn* | lern*il*o  | lern*ej*o  | lern*ist*o  | lern*ind*a  | lern*em*a  | lern*ilar*o  | lern*emul*o  |
+| manĝi  | *eat*   | manĝ*il*o  | manĝ*ej*o  | manĝ*ist*o  | manĝ*ind*a  | manĝ*em*a  | manĝ*ilar*o  | manĝ*emul*o  |
+| muziko | *music* | muzik*il*o | muzik*ej*o | muzik*ist*o | muzik*ind*a | muzik*em*a | muzik*ilar*o | muzik*emul*o |
+| naĝi   | *swim*  | naĝ*il*o   | naĝ*ej*o   | naĝ*ist*o   | naĝ*ind*a   | naĝ*em*a   | naĝ*ilar*o   | naĝ*emul*o   |
+| haki   | *hack*  | hak*il*o   | hak*ej*o   | hak*ist*o   | hak*ind*a   | hak*em*a   | hak*ilar*o   | hak*emul*o   |
 
 
 ### Korelatives
 
-|     | k-   | t-   | ĉ-   | nen-   |
-|:----|:-----|:-----|:-----|:-------|
-| io  | kio  | tio  | ĉio  | nenio  |
-| iu  | kiu  | tiu  | ĉiu  | neniu  |
-| ia  | kia  | tia  | ĉia  | nenia  |
-| iel | kiel | tiel | ĉiel | neniel |
-| ie  | kie  | tie  | ĉie  | nenie  |
-| iam | kiam | tiam | ĉiam | neniam |
-| ial | kial | tial | ĉial | nenial |
-| iom | kiom | tiom | ĉiom | neniom |
-| ies | kies | ties | ĉies | nenies |
+|     |             | k-   | t-   | ĉ-    | nen-   |
+|:----|:------------|:-----|:-----|:------|:-------|
+|     |             | ?    | !    | *all* | *none* |
+| io  | *what*      | kio  | tio  | ĉio   | nenio  |
+| iu  | *which*     | kiu  | tiu  | ĉiu   | neniu  |
+| ia  | *what kind* | kia  | tia  | ĉia   | nenia  |
+| iel | *how*       | kiel | tiel | ĉiel  | neniel |
+| ie  | *where*     | kie  | tie  | ĉie   | nenie  |
+| iam | *when*      | kiam | tiam | ĉiam  | neniam |
+| ial | *why*       | kial | tial | ĉial  | nenial |
+| iom | *how much*  | kiom | tiom | ĉiom  | neniom |
+| ies | *whose*     | kies | ties | ĉies  | nenies |
 
 ## Resources
 
