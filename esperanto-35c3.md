@@ -49,7 +49,7 @@
 ## Yes/No questions
 
 * Ĉu vi ŝatas la kongreson?
-* *Jes*, mi ŝatas la kongreson. / *Ne*, mi ne ŝatsa la kongreson.
+* *Jes*, mi ŝatas la kongreson. / *Ne*, mi ne ŝatas la kongreson.
 
 ### Accusative
 
