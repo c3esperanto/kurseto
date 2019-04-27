@@ -72,7 +72,7 @@ Examples:
 
 *-eg-*: granda → grand*eg*a
 
-*mal-*: granda -> *mal*granda
+*mal-*: granda → *mal*granda
 
 
 ### The power of affixes
