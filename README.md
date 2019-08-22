@@ -1,6 +1,6 @@
-# Esperanto course at 35c3
+# Esperanto course at CCCamp2019
 
-Small Esperanto course held at the 35th chaos communication congeress
+Small Esperanto course held at the 35th chaos communication congeress and later on CCCamp2019
 
 ![](qr-code.svg)
 
