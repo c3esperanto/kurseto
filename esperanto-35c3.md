@@ -1,5 +1,5 @@
 # Esperanto course at 35c3
-![](35c3_esperanto.svg){ width=33% }
+![](35c3_esperanto.svg)
 
 ## Quick facts
 
@@ -8,8 +8,9 @@
   learn"
 * language code: *eo*, *epo* (lots of localized software: wordpress, hunspell,
   ...)
-* phonetical alphabet
-* 2/3 of word roots are romanic, 1/3 germanic (also some slavic, acient greek, hebrew)
+
+* phonetic alphabet
+* 2/3 of word roots are Romanic, 1/3 Germanic (also some Slavic, acient Greek, Hebrew)
 * simplistic grammar
 
 ## Simple dialog
@@ -20,7 +21,7 @@
 * Jes treege.
 
 
-## Let's deduce some gramar basics
+## Let's deduce some grammar basics
 
 ### Personal pronouns
 singular:
@@ -45,7 +46,7 @@ plural:
 ### Nouns
 
 * *-o* (kongreso, kurso, lingvo, tablo, seĝo, fenstro, pomo, ...)
-* plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenstroj, homoj, ...)
+* plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenstroj, pomoj, ...)
 
 ### Adjectives
 
@@ -72,7 +73,7 @@ Examples:
 
 *-eg-*: granda → grand*eg*a
 
-*mal-*: granda -> *mal*granda
+*mal-*: granda → *mal*granda
 
 
 ### The power of affixes
@@ -96,7 +97,7 @@ Examples:
 | haki   | *hack*  | hak*il*o   | hak*ej*o   | hak*ist*o   | hak*ind*a   | hak*em*a   | hak*ilar*o   | hak*emul*o   |
 
 
-### Korelatives
+### Correlatives
 
 |     |             | k-   | t-   | ĉ-    | nen-   |
 |:----|:------------|:-----|:-----|:------|:-------|
@@ -125,6 +126,8 @@ Examples:
 * [reddit](https://reddit.com/r/esperanto)
 * [StackExchange](https://esperanto.stackexchange.com)
 * [Mastodon instance](https://esperanto.masto.host)
+* [Amikumu](https://amikumu.com) – an app to meet Esperanto speakers nearby
+* [Pasporta servo](https://pasportaservo.org) – a kind of Esperanto couch surfing
 
 ### Music
 
@@ -134,8 +137,9 @@ Examples:
 ### Videos podcasts etc.
 
 * [Studio](http://novajhoj.weebly.com/)
+* [kern.punkto](https://kern.punkto.info) – our own podcast
 
-### Congresses meetups
+### Congresses, meetups
 
 * [Esperanto world
   congress](https://en.wikipedia.org/wiki/World_Esperanto_Congress)
