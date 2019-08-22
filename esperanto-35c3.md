@@ -1,5 +1,4 @@
-# Esperanto course at 35c3
-![](35c3_esperanto.svg)
+# Esperanto course at CCCamp2019
 
 ## Quick facts
 
