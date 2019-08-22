@@ -133,11 +133,26 @@ Examples:
 
 * [Awesome Esperanto music videos](https://www.youtube.com/playlist?list=PLLg4HNcQo8zx3IMEXcrnRCkEhyXWDDf37)
 * [Vinilkosmo – Music label](https://www.vinilkosmo-mp3.com/en/)
+* [Song lyrics](http://kantaro.ikso.net/)
+* [Dek bovinoj](https://www.youtube.com/watch?v=gh9w7QpyQtY)
+* [Eternan lumon - Jonny M - Album "Regestilo"](https://www.youtube.com/watch?v=8J9jz9VpUsI)
+* [Samideano - ETERNE RIMA (Tokio/Tokyo)](https://www.youtube.com/watch?v=PrHU_lICydA)
+* [Martin kaj la talpoj - Gefratoj](https://www.youtube.com/watch?v=EeXMv_94A_U)
+* [i.d.c. - La fina venk'](https://www.youtube.com/watch?v=qJUYODkEr-o)
+* [i.d.c. - Tatua papili'](https://www.youtube.com/watch?v=CXMbOKc93wY)
+* [LPG - La Kosma Aventuro](https://www.youtube.com/watch?v=fGPlcWsfZgs)
+* [Supernova - La postrompiĝa temp'](https://www.youtube.com/watch?v=PWeqykF7A_U)
+* [Gijom - La postrompiĝa temp'](https://www.youtube.com/watch?v=-XiqpAjPd8A)
+* [Gijom - Kortuŝa Eksces'](https://www.youtube.com/watch?v=WencRDLDJVY)
+
 
 ### Videos podcasts etc.
 
 * [Studio](http://novajhoj.weebly.com/)
 * [kern.punkto](https://kern.punkto.info) – our own podcast
+* [Esperanto Muttersprachler](https://www.youtube.com/watch?v=UzDS2WyemBI)
+* [TEJO Esperanto](https://www.youtube.com/channel/UC1cW8y4NncmbRr6zD5IO8xw/videos)
+
 
 ### Congresses, meetups
 
