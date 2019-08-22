@@ -44,8 +44,8 @@ plural:
 
 ### Nouns
 
-* *-o* (kongreso, kurso, lingvo, tablo, seĝo, fenstro, pomo, ...)
-* plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenstroj, pomoj, ...)
+* *-o* (kongreso, kurso, lingvo, tablo, seĝo, fenestro, pomo, ...)
+* plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenestroj, pomoj, ...)
 
 ### Adjectives
 
