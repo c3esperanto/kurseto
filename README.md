@@ -1,4 +1,4 @@
-# Esperanto course at CCCamp2019
+# Esperanto course at C3 events 
 
 Small Esperanto course held and to be held at various c3 events.
 
