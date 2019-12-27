@@ -1,4 +1,4 @@
-# Esperanto course at CCCamp2019
+# Esperanto course at 36c3
 
 ## Quick facts
 
