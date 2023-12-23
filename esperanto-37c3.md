@@ -111,6 +111,13 @@ Examples:
 | iom | *how much*  | kiom | tiom | ĉiom  | neniom |
 | ies | *whose*     | kies | ties | ĉies  | nenies |
 
+
+### Some important "small" words
+
+kaj – and · aŭ – or · la – *definite article* · al – to · de – from/of · ke – that *(as a
+conjunction, **not** as pronoun)* · en – in · el – out (of) · da – of *(to
+indicate a quantity)*
+
 ## Resources
 
 ### Learning
