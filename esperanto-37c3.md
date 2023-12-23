@@ -26,7 +26,7 @@
 singular:
 * mi
 * vi
-* li/ŝi/ĝi
+* li/ŝi/ĝi/oni
 
 plural:
 * ni
@@ -131,6 +131,8 @@ Examples:
 * [Duolingo](https://www.duolingo.com/course/eo/en)
 * [lernu](https://lernu.net)
 * [Wikipedia in Esperanto](https://eo.wikipedia.org)
+* [Online dictionary (multilingual)](https://reta-vortaro.de)
+* [Online dictionary](https://vortaro.net)
 
 ### Groups
 
@@ -159,7 +161,6 @@ Examples:
 * [Gijom - La postrompiĝa temp'](https://www.youtube.com/watch?v=-XiqpAjPd8A)
 * [Gijom - Kortuŝa Eksces'](https://www.youtube.com/watch?v=WencRDLDJVY)
 
-
 ### Videos podcasts etc.
 
 * [Studio](http://novajhoj.weebly.com/)
@@ -167,12 +168,11 @@ Examples:
 * [Esperanto Muttersprachler](https://www.youtube.com/watch?v=UzDS2WyemBI)
 * [TEJO Esperanto](https://www.youtube.com/channel/UC1cW8y4NncmbRr6zD5IO8xw/videos)
 
-
-### Congresses, meetups
+### Congresses, meetups (small selection)
 
 * [Esperanto world
   congress](https://en.wikipedia.org/wiki/World_Esperanto_Congress)
 * [International Youth
   Congres](https://en.wikipedia.org/wiki/International_Youth_Congress)
 * [Esperanto summer studies](https://ses.ikso.net)
-* [Esperanto news week](http://jes.pej.pl)
+* [Esperanto youth week](http://jes.pej.pl)
