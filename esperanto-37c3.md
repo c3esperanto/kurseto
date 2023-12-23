@@ -3,13 +3,12 @@
 ## Quick facts
 
 * released 1887 by L. L. Zamenhof, Poland (at the time Russia)
-* number of speakers; $10^3$ natives, $10^5$ fluent regulars, $10^6$ "started to
-  learn"
-* language code: *eo*, *epo* (lots of localized software: wordpress, hunspell,
-  ...)
+* number of speakers; $10^3$ natives, $10^5$ fluent regulars, $10^6$ "started
+  to learn"
+* language code: *eo*, *epo* (lots of localized software: wordpress, hunspell, …)
 
 * phonetic alphabet
-* 2/3 of word roots are Romanic, 1/3 Germanic (also some Slavic, acient Greek, Hebrew)
+* ⅔ of word roots are Romanic, ⅓ Germanic (also some Slavic, acient Greek, Hebrew)
 * simplistic grammar
 
 ## Simple dialog
@@ -23,6 +22,7 @@
 ## Let's deduce some grammar basics
 
 ### Personal pronouns
+
 singular:
 * mi
 * vi
@@ -40,12 +40,12 @@ plural:
 * Past tense: *-is* (estis, nomiĝis, plaĉis)
 * Future tense: *-os* (estos, nomiĝos, plaĉos)
 
-* vidi, aŭdi, ami, manĝi, trinki, drinki, ...
+* vidi, aŭdi, ami, manĝi, trinki, drinki, …
 
 ### Nouns
 
-* *-o* (kongreso, kurso, lingvo, tablo, seĝo, fenestro, pomo, ...)
-* plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenestroj, pomoj, ...)
+* *-o* (kongreso, kurso, lingvo, tablo, seĝo, fenestro, pomo, …)
+* plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenestroj, pomoj, …)
 
 ### Adjectives
 
@@ -122,6 +122,7 @@ Examples:
 * en – in
 * el – out (of)
 * da – of *(to indicate a quantity)*
+* …
 
 
 ## Resources
