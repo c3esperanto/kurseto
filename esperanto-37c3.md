@@ -19,6 +19,37 @@
 * Jes treege.
 
 
+## Alphabet and phonetics
+
+### Rules
+
+* bijective mapping between spelling ans phonetics
+* stress on second last syllable
+* exactly one syllable for every vowel
+* no long or short vowels
+
+
+### The alphabet
+
+Straight forward latin alphabet with the following quirks
+
+* no "w" – "v" is used instead (Vindozo)
+* no "x" – "ks" is used instead (Linukso)
+* no "y" – "i" is used instead
+* "c" is like the german "z", "z" is like the english "z"
+
+Some special characters
+
+* ŝ – like english "sh" like in "fish"
+* ĉ - like the "ch" in english "ouch"
+* ĝ – like the "j" in english "jungle"
+* ĵ - like the "J" in *german* "Jounalist"
+* ĥ - like the "ch" in german "Bach"
+* ŭ – like "u" half vowel
+
+The letters "j" ans "ŭ" are so called *half vowels*, that means they don't have
+a syllable on their own but form a diphthong.
+
 ## Let's deduce some grammar basics
 
 ### Personal pronouns
