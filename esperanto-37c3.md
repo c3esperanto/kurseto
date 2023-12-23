@@ -70,9 +70,8 @@ Examples:
 
 ### Affixes
 
-*-eg-*: granda → grand*eg*a
-
-*mal-*: granda → *mal*granda
+* *-eg-*: granda → grand*eg*a
+* *mal-*: granda → *mal*granda
 
 
 ### The power of affixes
@@ -114,9 +113,16 @@ Examples:
 
 ### Some important "small" words
 
-kaj – and · aŭ – or · la – *definite article* · al – to · de – from/of · ke – that *(as a
-conjunction, **not** as pronoun)* · en – in · el – out (of) · da – of *(to
-indicate a quantity)*
+* kaj – and
+* aŭ – or
+* la – *definite article*
+* al – to
+* de – from/of
+* ke – that *(as a conjunction, **not** as pronoun)*
+* en – in
+* el – out (of)
+* da – of *(to indicate a quantity)*
+
 
 ## Resources
 
