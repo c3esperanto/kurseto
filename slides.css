@@ -1,0 +1,41 @@
+<style>
+:root {
+  --r-background-color: darkgreen;
+}
+body {
+    background-color: darkgreen;
+}
+.slides {
+    font-size: 0.75em;
+}
+.slides, .reveal {
+    text-align: left !important;
+}
+.reveal ul {
+    display: block;
+}
+.reveal ol {
+    display: block;
+}
+
+img {
+    max-height: 350px !important;
+}
+
+figcaption {
+    font-size: 0.6em !important;
+    font-style: italic !important;
+}
+
+table {
+    font-size: 0.65em !important;
+}
+
+.subtitle {
+    font-style: italic !important;
+}
+
+.date {
+    font-size: 0.75em !important;
+}
+</style>

@@ -1,4 +1,11 @@
-# Esperanto course at 36c3
+---
+author: Eva Fitzelová 🇸🇰 · Johannes Mueller 🇩🇪
+title: 37c3 Esperanto course
+subtitle: A small insight into the constructed living language Esperanto
+date: December 28th, 2023
+---
+
+# Introduction
 
 ## Quick facts
 
@@ -19,9 +26,9 @@
 * Jes treege.
 
 
-## Alphabet and phonetics
+# Alphabet and phonetics
 
-### Rules
+## Rules
 
 * bijective mapping between spelling ans phonetics
 * stress on second last syllable
@@ -29,7 +36,7 @@
 * no long or short vowels
 
 
-### The alphabet
+## The alphabet
 
 Straight forward latin alphabet with the following quirks
 
@@ -37,6 +44,8 @@ Straight forward latin alphabet with the following quirks
 * no "x" – "ks" is used instead (Linukso)
 * no "y" – "i" is used instead
 * "c" is like the german "z", "z" is like the english "z"
+
+---
 
 Some special characters
 
@@ -50,21 +59,27 @@ Some special characters
 The letters "j" ans "ŭ" are so called *half vowels*, that means they don't have
 a syllable on their own but form a diphthong.
 
-## Let's deduce some grammar basics
 
-### Personal pronouns
+# Some grammar basics
+
+## Personal pronouns
 
 singular:
+
 * mi
 * vi
 * li/ŝi/ĝi/oni
 
 plural:
+
 * ni
 * vi
 * ili
 
-### Verbs
+
+## Verbs
+
+Verb endings
 
 * Infinitive: *-i* (esti, nomiĝi, plaĉi)
 * Present tense: *-as* (estas, nomiĝas, plaĉas)
@@ -73,12 +88,12 @@ plural:
 
 * vidi, aŭdi, ami, manĝi, trinki, drinki, …
 
-### Nouns
+## Nouns
 
 * *-o* (kongreso, kurso, lingvo, tablo, seĝo, fenestro, pomo, …)
 * plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenestroj, pomoj, …)
 
-### Adjectives
+## Adjectives
 
 * *-a* (bela, granda, ruĝa, verda, kongresa, dolĉa, plaĉa)
 * plural: *-j* (belaj, grandaj, ruĝaj, verdaj, kongresaj, dolĉaj, plaĉaj)
@@ -88,24 +103,30 @@ plural:
 * Ĉu vi ŝatas la kongreson?
 * *Jes*, mi ŝatas la kongreson. / *Ne*, mi ne ŝatas la kongreson.
 
-### Accusative
+## Accusative
 
 *-n*
 
-Examples:
+Marks the direct object. Examples:
 
 * Mi amas vi*n*
 * Ĉu vi ŝatas la kongreso*n*?
 * Ŝi manĝas dolĉaj*n* pomoj*n*.
 
 
-### Affixes
+Can also do other things, e.g. indicate direction instead of location:
 
-* *-eg-*: granda → grand*eg*a
-* *mal-*: granda → *mal*granda
+* Mi dancas en la dancejo. — I am dancing in the dancing room.
+* Mi dancas en la dancejon. — I am dancing *into* the dancing room.
 
 
-### The power of affixes
+## Affixes
+
+* *-eg-*: granda → grand*eg*a — big → huge
+* *mal-*: granda → *mal*granda – big → small
+
+
+## The power of affixes
 
 |        |         | -in-       | vir-        | -id-       | -ar-       | -ej-       | -ist-       |
 |:-------|:--------|:-----------|:------------|:-----------|:-----------|:-----------|:------------|
@@ -115,6 +136,7 @@ Examples:
 | bovo   | *cow*   | bov*in*o   | *vir*bovo   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |
 | ĉevalo | *horse* | ĉeval*in*o | *vir*ĉevalo | ĉeval*id*o | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
 
+---
 
 |        |         | -il-       | -ej-       | -ist-       | -ind-       | -em-       | -il-ar-      | -em-ul-      |
 |:-------|:--------|:-----------|:-----------|:------------|:------------|:-----------|:-------------|:-------------|
@@ -126,7 +148,7 @@ Examples:
 | haki   | *hack*  | hak*il*o   | hak*ej*o   | hak*ist*o   | hak*ind*a   | hak*em*a   | hak*ilar*o   | hak*emul*o   |
 
 
-### Correlatives
+## Correlatives
 
 |     |             | k-   | t-   | ĉ-    | nen-   |
 |:----|:------------|:-----|:-----|:------|:-------|
@@ -141,8 +163,9 @@ Examples:
 | iom | *how much*  | kiom | tiom | ĉiom  | neniom |
 | ies | *whose*     | kies | ties | ĉies  | nenies |
 
+ĉio – everything · nenie – nowhere · ĉiel – in any way · iel – somehow
 
-### Some important "small" words
+## Some important "small" words
 
 * kaj – and
 * aŭ – or
@@ -153,12 +176,13 @@ Examples:
 * en – in
 * el – out (of)
 * da – of *(to indicate a quantity)*
+* kun – with · sen – without
 * …
 
 
-## Resources
+# Resources
 
-### Learning
+## Learning
 
 * [Duolingo](https://www.duolingo.com/course/eo/en)
 * [lernu](https://lernu.net)
@@ -166,7 +190,7 @@ Examples:
 * [Online dictionary (multilingual)](https://reta-vortaro.de)
 * [Online dictionary](https://vortaro.net)
 
-### Groups
+## Groups
 
 * [Telegram](https://telegramo.org)
 * [reddit](https://reddit.com/r/esperanto)
@@ -175,32 +199,31 @@ Examples:
 * [Amikumu](https://amikumu.com) – an app to meet Esperanto speakers nearby
 * [Pasporta servo](https://pasportaservo.org) – a kind of Esperanto couch surfing
 
-### Music
+## Music
 
 * [Awesome Esperanto music videos](https://www.youtube.com/playlist?list=PLLg4HNcQo8zx3IMEXcrnRCkEhyXWDDf37)
 * [Vinilkosmo – Music label](https://www.vinilkosmo-mp3.com/en/)
 * [Song lyrics](http://kantaro.ikso.net/)
-* [Dek bovinoj](https://www.youtube.com/watch?v=gh9w7QpyQtY)
 * [Eternan lumon - Jonny M - Album "Regestilo"](https://www.youtube.com/watch?v=8J9jz9VpUsI)
 * [Samideano - ETERNE RIMA (Tokio/Tokyo)](https://www.youtube.com/watch?v=PrHU_lICydA)
 * [Abatejo – Amon mi bezonas](https://www.youtube.com/watch?v=dA-WdEcMacw)
 * [Martin kaj la talpoj - Gefratoj](https://www.youtube.com/watch?v=EeXMv_94A_U)
 * [i.d.c. - La fina venk'](https://www.youtube.com/watch?v=qJUYODkEr-o)
 * [i.d.c. - Tatua papili'](https://www.youtube.com/watch?v=CXMbOKc93wY)
-* [i.d.c. – Berlino sen vi](https://www.youtube.com/watch?v=530Y4a6jomI)
+* [i.d.c. - Berlino sen vi](https://www.youtube.com/watch?v=530Y4a6jomI)
 * [LPG - La Kosma Aventuro](https://www.youtube.com/watch?v=fGPlcWsfZgs)
 * [Supernova - La postrompiĝa temp'](https://www.youtube.com/watch?v=PWeqykF7A_U)
 * [Gijom - La postrompiĝa temp'](https://www.youtube.com/watch?v=-XiqpAjPd8A)
 * [Gijom - Kortuŝa Eksces'](https://www.youtube.com/watch?v=WencRDLDJVY)
 
-### Videos podcasts etc.
+## Videos podcasts etc.
 
 * [Studio](http://novajhoj.weebly.com/)
 * [kern.punkto](https://kern.punkto.info) – our own podcast
-* [Esperanto Muttersprachler](https://www.youtube.com/watch?v=UzDS2WyemBI)
+* [Esperanto natives](https://www.youtube.com/watch?v=UzDS2WyemBI)
 * [TEJO Esperanto](https://www.youtube.com/channel/UC1cW8y4NncmbRr6zD5IO8xw/videos)
 
-### Congresses, meetups (small selection)
+## Congresses, meetups (small selection)
 
 * [Esperanto world
   congress](https://en.wikipedia.org/wiki/World_Esperanto_Congress)
