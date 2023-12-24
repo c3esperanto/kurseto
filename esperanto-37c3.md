@@ -9,7 +9,7 @@ date: December 28th, 2023
 
 ## Quick facts
 
-* released 1887 by L. L. Zamenhof, Poland (at the time Russia)
+* released 1887 by L. L. Zamenhof, Poland (at the time occupied by Russia)
 * number of speakers; $10^3$ natives, $10^5$ fluent regulars, $10^6$ "started
   to learn"
 * language code: *eo*, *epo* (lots of localized software: wordpress, hunspell, …)
