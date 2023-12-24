@@ -180,6 +180,20 @@ Can also do other things, e.g. indicate direction instead of location:
 * …
 
 
+## Participles
+
+|         | present | past  | future |
+|---------|---------|-------|--------|
+| active  | -ant-   | -nt- | -ont-  |
+| passive | -at-    | -it   | -ot-   |
+
+La pas*int*a kongreso okazis en 2019.
+
+La ven*ont*a kongreso okazos en 2024.
+
+La kongreso estas bone organiz*it*a.
+
+
 # Resources
 
 ## Learning
