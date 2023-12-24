@@ -5,6 +5,8 @@ subtitle: A small insight into the constructed living language Esperanto
 date: December 28th, 2023
 ---
 
+![https://github.com/c3esperanto/kurseto](qr-code.svg){ width=25em, height=25em }
+
 # Introduction
 
 ## Quick facts
