@@ -36,7 +36,17 @@ jobs:
           unzip master.zip
           mv reveal.js-master _site
       - name: Build with pandoc
-        run: ./build.sh
+        uses: docker://pandoc/core:latest
+        with:
+          args: >-
+            --to revealjs
+            --standalone
+            --output=_site/index.html
+            ---variable=revealjs-url:kurseto
+            --include-in-header=slides.css
+            esperanto-37c3.md
+      - name: Copy qr-code
+        run: cp qr-code.svg _site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
