@@ -28,8 +28,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Install pandoc
-        run: sudo apt-get install pandoc
       - name: Download reveal.js
         run: |
           wget https://github.com/hakimel/reveal.js/archive/master.zip
@@ -42,7 +40,7 @@ jobs:
             --to revealjs
             --standalone
             --output=_site/index.html
-            ---variable=revealjs-url:kurseto
+            --variable=revealjs-url:kurseto
             --include-in-header=slides.css
             esperanto-37c3.md
       - name: Copy qr-code
