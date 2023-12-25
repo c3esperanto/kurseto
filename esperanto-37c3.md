@@ -103,7 +103,7 @@ vidi, aŭdi, ami, manĝi, trinki, drinki, …
 
 ## Yes/No questions
 
-* Ĉu vi ŝatas la kongreson?
+* **Ĉu** vi ŝatas la kongreson?
 * *Jes*, mi ŝatas la kongreson. / *Ne*, mi ne ŝatas la kongreson.
 
 ## Accusative
