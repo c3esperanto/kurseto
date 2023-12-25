@@ -40,7 +40,6 @@ jobs:
             --to revealjs
             --standalone
             --output=_site/index.html
-            --variable=revealjs-url:kurseto
             --include-in-header=slides.css
             esperanto-37c3.md
       - name: Copy qr-code
