@@ -86,6 +86,7 @@ Verb endings
 * Past tense: *-is* (estis, nomiĝis, plaĉis)
 * Future tense: *-os* (estos, nomiĝos, plaĉos)
 * Conditional tense: *-us* (estus, nomiĝus, plaĉus)
+* Imperative: *-u* (estu, nomiĝu, plaĉu)
 
 vidi, aŭdi, ami, manĝi, trinki, drinki, …
 
