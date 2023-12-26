@@ -248,6 +248,15 @@ La kongreso estas bone organiz*it*a.
 * [Esperanto youth week](http://jes.pej.pl)
 
 
+# Follow up …
+
+## … further discussion at the congress
+
+* Meet us at our assembly
+* Contact us [@magica@chaos.socal](https://chaos.social/deck/@magica),
+  [@johmue@chaos.social](https://chaos.social/deck/@johmue)
+* … or toot to `#37c3eo`
+
 ---
 
 Koran dankon – Thank you very much
