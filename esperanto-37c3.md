@@ -99,6 +99,12 @@ vidi, aŭdi, ami, manĝi, trinki, drinki, …
 * *-a* (bela, granda, ruĝa, verda, kongresa, dolĉa, plaĉa)
 * plural: *-j* (belaj, grandaj, ruĝaj, verdaj, kongresaj, dolĉaj, plaĉaj)
 
+## Derived adverbs
+
+* *-e* (bele, grande, ruĝe, verde, kongrese, dolĉe, plaĉe)
+
+La kanto estas bel*a* kaj ŝi bel*e* kantis ĝin.
+
 ## Yes/No questions
 
 * **Ĉu** vi ŝatas la kongreson?
