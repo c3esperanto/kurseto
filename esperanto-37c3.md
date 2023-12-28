@@ -154,14 +154,14 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 ---
 
-|        |         | -il-       | -ej-       | -ist-       | -ind-       | -em-       | -il-ar-      | -em-ul-      |
-|:-------|:--------|:-----------|:-----------|:------------|:------------|:-----------|:-------------|:-------------|
-|        |         | *tool*     | *place*    | *profession*| *worth*     | *inclined* |              |              |
-| lerni  | *learn* | lern*il*o  | lern*ej*o  | lern*ist*o  | lern*ind*a  | lern*em*a  | lern*ilar*o  | lern*emul*o  |
-| manĝi  | *eat*   | manĝ*il*o  | manĝ*ej*o  | manĝ*ist*o  | manĝ*ind*a  | manĝ*em*a  | manĝ*ilar*o  | manĝ*emul*o  |
-| muziko | *music* | muzik*il*o | muzik*ej*o | muzik*ist*o | muzik*ind*a | muzik*em*a | muzik*ilar*o | muzik*emul*o |
-| naĝi   | *swim*  | naĝ*il*o   | naĝ*ej*o   | naĝ*ist*o   | naĝ*ind*a   | naĝ*em*a   | naĝ*ilar*o   | naĝ*emul*o   |
-| haki   | *hack*  | hak*il*o   | hak*ej*o   | hak*ist*o   | hak*ind*a   | hak*em*a   | hak*ilar*o   | hak*emul*o   |
+|        |         | -il-       | -ej-       | -ist-        | -ind-       | -em-       | -em-ul-       |
+|:-------|:--------|:-----------|:-----------|:-------------|:------------|:-----------|:--------------|
+|        |         | *tool*     | *place*    | *profession* | *worth*     | *inclined* | *person*      |
+| lerni  | *learn* | lern*il*o  | lern*ej*o  | lern*ist*o   | lern*ind*a  | lern*em*a  | lern*em-ul*o  |
+| manĝi  | *eat*   | manĝ*il*o  | manĝ*ej*o  | manĝ*ist*o   | manĝ*ind*a  | manĝ*em*a  | manĝ*em-ul*o  |
+| muziko | *music* | muzik*il*o | muzik*ej*o | muzik*ist*o  | muzik*ind*a | muzik*em*a | muzik*em-ul*o |
+| naĝi   | *swim*  | naĝ*il*o   | naĝ*ej*o   | naĝ*ist*o    | naĝ*ind*a   | naĝ*em*a   | naĝ*em-ul*o   |
+| haki   | *hack*  | hak*il*o   | hak*ej*o   | hak*ist*o    | hak*ind*a   | hak*em*a   | hak*em-ul*o   |
 
 
 ## Correlatives
