@@ -90,15 +90,21 @@ Verb endings
 
 vidi, aŭdi, ami, manĝi, trinki, drinki, …
 
+Mi amas vin. – Ni trinkas ĉunkon. – Ili manĝas picon.
+
+
 ## Nouns
 
 * *-o* (kongreso, kurso, lingvo, tablo, seĝo, fenestro, pomo, …)
 * plural: *-j* (kongresoj, kursoj, lingvoj, tabloj, seĝoj, fenestroj, pomoj, …)
 
+
 ## Adjectives
 
 * *-a* (bela, granda, ruĝa, verda, kongresa, dolĉa, plaĉa)
 * plural: *-j* (belaj, grandaj, ruĝaj, verdaj, kongresaj, dolĉaj, plaĉaj)
+
+Hamburgo estas granda urbo. – Hamburgo estas bela.
 
 ## Derived adverbs
 
@@ -132,6 +138,8 @@ Can also do other things, e.g. indicate direction instead of location:
 
 * *-eg-*: granda → grand*eg*a — big → huge
 * *mal-*: granda → *mal*granda – big → small
+
+Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 
 ## The power of affixes
