@@ -241,6 +241,7 @@ La kongreso estas bone organiz*it*a.
 * [i.d.c. - La fina venk'](https://www.youtube.com/watch?v=qJUYODkEr-o)
 * [i.d.c. - Tatua papili'](https://www.youtube.com/watch?v=CXMbOKc93wY)
 * [i.d.c. - Berlino sen vi](https://www.youtube.com/watch?v=530Y4a6jomI)
+* [i.d.c. – La nokta stirado](https://www.youtube.com/watch?v=DNjsx8xjdC0)
 * [LPG - La Kosma Aventuro](https://www.youtube.com/watch?v=fGPlcWsfZgs)
 * [Supernova - La postrompiĝa temp'](https://www.youtube.com/watch?v=PWeqykF7A_U)
 * [Gijom - La postrompiĝa temp'](https://www.youtube.com/watch?v=-XiqpAjPd8A)
@@ -268,9 +269,9 @@ La kongreso estas bone organiz*it*a.
 ## … further discussion at the congress
 
 * Meet us at our assembly
-* Contact us [@magica@chaos.socal](https://chaos.social/deck/@magica),
+* Contact us [@magica@chaos.social](https://chaos.social/deck/@magica),
   [@johmue@chaos.social](https://chaos.social/deck/@johmue)
-* … or toot to `#37c3eo`
+* … or toot to `#38c3eo`
 
 ---
 
