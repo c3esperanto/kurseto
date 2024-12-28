@@ -30,7 +30,7 @@ date: December 28th, 2023
 
 ## Rules
 
-* bijective mapping between spelling ans phonetics
+* bijective mapping between spelling and phonetics
 * stress on second last syllable
 * exactly one syllable for every vowel
 * no long or short vowels
