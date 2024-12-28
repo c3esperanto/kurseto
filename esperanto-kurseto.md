@@ -1,8 +1,8 @@
 ---
 author: Eva Fitzelová 🇸🇰 · Johannes Mueller 🇩🇪
-title: 37c3 Esperanto course
+title: 38c3 Esperanto course
 subtitle: A small insight into the constructed living language Esperanto
-date: December 28th, 2023
+date: December 30th, 2024
 ---
 
 # Introduction
