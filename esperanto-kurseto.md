@@ -203,9 +203,9 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 | active  | -ant-   | -nt- | -ont-  |
 | passive | -at-    | -it   | -ot-   |
 
-La pas*int*a kongreso okazis en 2019.
+La pas*int*a kongreso okazis en 2023.
 
-La ven*ont*a kongreso okazos en 2024.
+La ven*ont*a kongreso okazos en 2025.
 
 La kongreso estas bone organiz*it*a.
 
