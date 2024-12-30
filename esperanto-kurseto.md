@@ -270,7 +270,7 @@ La kongreso estas bone organiz*it*a.
 ## … further discussion at the congress
 
 * Meet us at our assembly
-* Contact us [@magica@chaos.social](https://chaos.social/deck/@magica),
+* Contact us [@evaf@mastodon.art](https://mastodon.art/@evaf),
   [@johmue@chaos.social](https://chaos.social/deck/@johmue)
 * … or toot to `#38c3eo`
 
