@@ -18,12 +18,13 @@ date: December 30th, 2024
 * ⅔ of word roots are Romanic, ⅓ Germanic (also some Slavic, acient Greek, Hebrew)
 * simplistic grammar
 
-## Simple dialog
 
-* Saluton! Mi estas Johannes. Kiu vi estas?
-* Saluton! Mi nomiĝas Eva.
-* Ĉu plaĉas al vi la kongreso?
-* Jes treege.
+## Sample text
+
+Ni venis al Hamburgo antaŭ tri tagoj por partopreni la kongreson de la
+ĥaoskomputila klubo. Estas nia 8a tia kongreso kaj ni ege ĝuas ĝin. Ni eĉ havas
+nian propran asembleon kun interesa LED-instalaĵo. Bedaŭrinde estas jam la
+lasta tago de la kongreso, do ni ĉi-vespere jam devas forveturi.
 
 
 # Alphabet and phonetics
