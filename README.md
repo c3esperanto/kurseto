@@ -9,7 +9,7 @@ attending the big Chaos events.  Oftentimes we are two of them.
 Of course we cannot give a comprehensive course about Esperanto, but a few
 insights to the language and its community first hand.
 
-![https://github.com/c3esperanto/kurseto](qr-code.svg)
+![https://github.com/c3esperanto/kurseto](images/qr-code.svg)
 
 ## About the authors
 

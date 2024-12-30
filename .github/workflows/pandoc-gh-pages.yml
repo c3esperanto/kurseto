@@ -41,8 +41,8 @@ jobs:
             --output=_site/index.html
             --include-in-header=slides.css
             esperanto-kurseto.md
-      - name: Copy qr-code
-        run: cp qr-code.svg _site
+      - name: Copy images
+        run: cp -r images _site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 

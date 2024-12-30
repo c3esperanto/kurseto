@@ -132,8 +132,22 @@ Marks the direct object. Examples:
 Can also do other things, e.g. indicate direction instead of location:
 
 * Mi dancas en la dancejo. — I am dancing in the dancing room.
-* Mi dancas en la dancejon. — I am dancing *into* the dancing room.
+* Mi dancas en la dancejon. — I am dancing *into** the dancing room.
 
+
+## Esperanto avoids ambiguities
+
+:::::::::::::: {.columns}
+::: {.column width="40%"}
+![](images/ambiguities.png){#id .class width=100% height=auto;}
+:::
+::: {.column width="60%"}
+* Homoj *kun* komputiloj helpas.
+* Homoj *per* komputiloj helpas.
+* Homoj**n** *kun* komputiloj helpi
+* Homoj**n** *per* komputiloj helpi
+:::
+::::::::::::::
 
 ## Affixes
 
@@ -278,4 +292,4 @@ La kongreso estas bone organiz*it*a.
 
 Koran dankon – Thank you very much
 
-![https://github.com/c3esperanto/kurseto](qr-code.svg){ width=25em, height=25em }
+![https://github.com/c3esperanto/kurseto](images/qr-code.svg){ width=25em, height=25em }
