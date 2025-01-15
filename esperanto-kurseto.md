@@ -12,7 +12,7 @@ date: December 30th, 2024
 * released 1887 by L. L. Zamenhof, Poland (at the time occupied by Russia)
 * number of speakers; $10^3$ natives, $10^5$ fluent regulars, $10^6$ "started
   to learn"
-* language code: *eo*, *epo* (lots of localized software: wordpress, hunspell, …)
+* language code: *eo*, *epo* (lots of localized software: WordPress, Hunspell, …)
 
 * phonetic alphabet
 * ⅔ of word roots are Romanic, ⅓ Germanic (also some Slavic, ancient Greek, Hebrew)
@@ -242,7 +242,7 @@ La kongreso estas bone organiz*it*a.
 * [StackExchange](https://esperanto.stackexchange.com)
 * [Mastodon instance](https://esperanto.masto.host)
 * [Amikumu](https://amikumu.com) – an app to meet Esperanto speakers nearby
-* [Pasporta servo](https://pasportaservo.org) – a kind of Esperanto couch surfing
+* [Pasporta Servo](https://pasportaservo.org) – a kind of Esperanto couch surfing
 
 ## Music
 
