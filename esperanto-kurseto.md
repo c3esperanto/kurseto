@@ -39,22 +39,22 @@ lasta tago de la kongreso, do ni ĉi-vespere jam devas forveturi.
 
 ## The alphabet
 
-Straight forward latin alphabet with the following quirks
+Straight forward Latin alphabet with the following quirks
 
 * no "w" – "v" is used instead (Vindozo)
 * no "x" – "ks" is used instead (Linukso)
 * no "y" – "i" is used instead
-* "c" is like the german "z", "z" is like the english "z"
+* "c" is like the German "z", "z" is like the English "z"
 
 ---
 
 Some special characters
 
-* ŝ – like english "sh" like in "fish"
-* ĉ - like the "ch" in english "ouch"
-* ĝ – like the "j" in english "jungle"
-* ĵ - like the "J" in *german* "Jounalist"
-* ĥ - like the "ch" in german "Bach"
+* ŝ – like English "sh" like in "fish"
+* ĉ - like the "ch" in English "ouch"
+* ĝ – like the "j" in English "jungle"
+* ĵ - like the "J" in *German* "Jounalist"
+* ĥ - like the "ch" in German "Bach"
 * ŭ – like "u" half vowel
 
 The letters "j" ans "ŭ" are so called *half vowels*, that means they don't have
