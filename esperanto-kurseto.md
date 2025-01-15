@@ -15,7 +15,7 @@ date: December 30th, 2024
 * language code: *eo*, *epo* (lots of localized software: wordpress, hunspell, …)
 
 * phonetic alphabet
-* ⅔ of word roots are Romanic, ⅓ Germanic (also some Slavic, acient Greek, Hebrew)
+* ⅔ of word roots are Romanic, ⅓ Germanic (also some Slavic, ancient Greek, Hebrew)
 * simplistic grammar
 
 
@@ -274,7 +274,7 @@ La kongreso estas bone organiz*it*a.
 * [Esperanto world
   congress](https://en.wikipedia.org/wiki/World_Esperanto_Congress)
 * [International Youth
-  Congres](https://en.wikipedia.org/wiki/International_Youth_Congress)
+  Congress](https://en.wikipedia.org/wiki/International_Youth_Congress)
 * [Esperanto summer studies](https://ses.ikso.net)
 * [Esperanto youth week](http://jes.pej.pl)
 
