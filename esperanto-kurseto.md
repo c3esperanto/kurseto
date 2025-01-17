@@ -19,6 +19,7 @@ date: December 30th, 2024
 * phonetic alphabet
 * ⅔ of word roots are Romanic, ⅓ Germanic (also some Slavic, acient Greek, Hebrew)
 * simplistic grammar
+* word building system
 
 
 ## Sample text
