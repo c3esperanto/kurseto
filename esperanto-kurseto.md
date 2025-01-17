@@ -14,6 +14,8 @@ date: December 30th, 2024
   to learn"
 * language code: *eo*, *epo* (lots of localized software: wordpress, hunspell, …)
 
+### Language features
+
 * phonetic alphabet
 * ⅔ of word roots are Romanic, ⅓ Germanic (also some Slavic, acient Greek, Hebrew)
 * simplistic grammar
