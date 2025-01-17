@@ -181,18 +181,18 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 ## Correlatives
 
-|     |             | ki-  | ti-  | ĉi-   | neni-  |
-|:----|:------------|:-----|:-----|:------|:-------|
-|     |             | ?    | !    | *all* | *none* |
-| -o  | *what*      | kio  | tio  | ĉio   | nenio  |
-| -u  | *which*     | kiu  | tiu  | ĉiu   | neniu  |
-| -a  | *what kind* | kia  | tia  | ĉia   | nenia  |
-| -el | *how*       | kiel | tiel | ĉiel  | neniel |
-| -e  | *where*     | kie  | tie  | ĉie   | nenie  |
-| -am | *when*      | kiam | tiam | ĉiam  | neniam |
-| -al | *why*       | kial | tial | ĉial  | nenial |
-| -om | *how much*  | kiom | tiom | ĉiom  | neniom |
-| -es | *whose*     | kies | ties | ĉies  | nenies |
+|     |             | ki-  | ti-  | ĉi-   | i-     | neni-  |
+|:----|:------------|:-----|:-----|:------|:-------|:-------|
+|     |             | ?    | !    | *all* | *some* | *none* |
+| -o  | *what*      | kio  | tio  | ĉio   | io     | nenio  |
+| -u  | *which*     | kiu  | tiu  | ĉiu   | iu     | neniu  |
+| -a  | *what kind* | kia  | tia  | ĉia   | ia     | nenia  |
+| -el | *how*       | kiel | tiel | ĉiel  | iel    | neniel |
+| -e  | *where*     | kie  | tie  | ĉie   | ie     | nenie  |
+| -am | *when*      | kiam | tiam | ĉiam  | iam    | neniam |
+| -al | *why*       | kial | tial | ĉial  | ial    | nenial |
+| -om | *how much*  | kiom | tiom | ĉiom  | iom    | neniom |
+| -es | *whose*     | kies | ties | ĉies  | ies    | nenies |
 
 ĉio – everything · nenie – nowhere · ĉiel – in any way · iel – somehow
 
