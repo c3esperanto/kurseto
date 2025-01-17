@@ -197,7 +197,7 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 | iom | *how much*  | kiom | tiom | ĉiom  | neniom |
 | ies | *whose*     | kies | ties | ĉies  | nenies |
 
-ĉio – everything · nenie – nowhere · ĉiel – in any way · iel – somehow
+ĉio – everything · nenie – nowhere · ĉiel – in every way · iel – somehow
 
 ## Some important "small" words
 
