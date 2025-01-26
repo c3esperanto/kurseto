@@ -132,7 +132,7 @@ Marks the direct object. Examples:
 Can also do other things, e.g. indicate direction instead of location:
 
 * Mi dancas en la dancejo. — I am dancing in the dancing room.
-* Mi dancas en la dancejon. — I am dancing *into** the dancing room.
+* Mi dancas en la dancejon. — I am dancing **into** the dancing room.
 
 
 ## Esperanto avoids ambiguities
