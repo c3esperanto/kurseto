@@ -1,33 +1,47 @@
 ---
-author: Eva Fitzelová 🇸🇰 · Johannes Mueller 🇩🇪
-title: 38c3 Esperanto course
+author: Eva 🇸🇰 & Johannes  🇩🇪
+title: 39c3 Esperanto course
 subtitle: A small insight into the constructed living language Esperanto
-date: December 30th, 2024
+date: December 30th, 2025
 ---
 
 # Introduction
 
 ## Quick facts
-
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 * released 1887 by L. L. Zamenhof, Poland (at the time occupied by Russia)
-* number of speakers; $10^3$ natives, $10^5$ fluent regulars, $10^6$ "started
-  to learn"
-* language code: *eo*, *epo* (lots of localized software: WordPress, Hunspell, …)
+* number of speakers:
+  * $10^3$ natives
+  * $10^5$ fluent regulars
+  * $10^6$ "started to learn"
+* spoken everywhere in the world; slight focus on Europe
+* language code: *eo*, *epo*
+  (lots of localized software: WordPress, Hunspell, LibreOffice, Firefox, KDE, …)
+:::
+::: {.column width="40%"}
+![](images/zamenhof.jpg){.sideimage}
+:::
+::::::::::::::
 
-### Language features
+
+## Language features
 
 * phonetic alphabet
-* ⅔ of word roots are Romanic, ⅓ Germanic (also some Slavic, ancient Greek, Hebrew)
+* European vocabulary
+  * ⅔ of word roots are Romanic
+  * ⅓ Germanic
+  * some Slavic, ancient Greek, Hebrew
 * simplistic grammar
-* word building system
+* powerful word building system
 
 
 ## Sample text
 
 Ni venis al Hamburgo antaŭ tri tagoj por partopreni la kongreson de la
 ĥaoskomputila klubo. Estas nia 8a tia kongreso kaj ni ege ĝuas ĝin. Ni eĉ havas
-nian propran asembleon kun interesa LED-instalaĵo. Bedaŭrinde estas jam la
-lasta tago de la kongreso, do ni ĉi-vespere jam devas forveturi.
+nian propran asembleon kun interesa LED-instalaĵo. Nun jam estas la tria tago
+de la kongreso. Tio signifas, ke ni morgaŭ jam devas forveturi.
 
 
 # Alphabet and phonetics
@@ -56,7 +70,7 @@ Some special characters
 * ŝ – like English "sh" like in "fish"
 * ĉ - like the "ch" in English "ouch"
 * ĝ – like the "j" in English "jungle"
-* ĵ - like the "J" in *German* "Jounalist"
+* ĵ - like the "J" in German "Jounalist"
 * ĥ - like the "ch" in German "Bach"
 * ŭ – like "u" half vowel
 
@@ -142,7 +156,7 @@ Can also do other things, e.g. indicate direction instead of location:
 
 :::::::::::::: {.columns}
 ::: {.column width="40%"}
-![](images/ambiguities.png){#id .class width=100% height=auto;}
+![](images/ambiguities.png){.sideimage}
 :::
 ::: {.column width="60%"}
 * Homoj *kun* komputiloj helpas.
@@ -221,9 +235,9 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 | active  | -ant-   | -nt- | -ont-  |
 | passive | -at-    | -it   | -ot-   |
 
-La pas*int*a kongreso okazis en 2023.
+La pas*int*a kongreso okazis en 2024.
 
-La ven*ont*a kongreso okazos en 2025.
+La ven*ont*a kongreso okazos en 2026.
 
 La kongreso estas bone organiz*it*a.
 
@@ -289,10 +303,10 @@ La kongreso estas bone organiz*it*a.
 * Meet us at our assembly
 * Contact us [@evaf@mastodon.art](https://mastodon.art/@evaf),
   [@johmue@chaos.social](https://chaos.social/deck/@johmue)
-* … or toot to `#38c3eo`
+* … or toot to `#39c3eo`
 
 ---
 
 Koran dankon – Thank you very much
 
-![https://github.com/c3esperanto/kurseto](images/qr-code.svg){ width=25em, height=25em }
+![https://github.com/c3esperanto/kurseto](images/qr-code.svg){ width=12em, height=12em }
