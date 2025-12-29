@@ -176,6 +176,16 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 ## The power of affixes
 
+|        |         | -in-     | vir-     | -id-        | -ar-    | -ej-      | -ist-        |
+|:-------|:--------|:---------|:---------|:------------|:--------|:----------|:-------------|
+|        |         | *female* | *male*   | *offspring* | *group* | *place*   | *profession* |
+| ŝafo   | *sheep* | ewe      | ram      | lamb        | flock   | sheepfold | shepherd     |
+| hundo  | *dog*   | bitch    | dog      | puppy       | pack    | kennel    | dog keeper   |
+| bovo   | *cow*   | cow      | bull     | calf        | herd    | cowshed   | cowherd      |
+| ĉevalo | *horse* | mare     | stallion | foal        | herd    | stable    | horseman     |
+
+---
+
 |        |         | -in-       | vir-        | -id-       | -ar-       | -ej-       | -ist-       |
 |:-------|:--------|:-----------|:------------|:-----------|:-----------|:-----------|:------------|
 |        |         | *female*   | *male*      | *offspring*| *group*    | *place*    | *profession*|
@@ -198,6 +208,21 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 ## Correlatives
 
+|     | ki-       | ti-           | ĉi-         | i-         | neni-    |
+|:----|:----------|:--------------|:------------|:-----------|:---------|
+|     | ?         | !             | *all*       | *some*     | *none*   |
+| -o  | what      | that          | everything  | something  | nothing  |
+| -u  | which/who | that (one)    | all         | some       | no(-one) |
+| -a  | what kind | that kind     | all kind    | some kind  | no kind  |
+| -el | how       | thus          | anyhow      | somehow    | no way   |
+| -e  | where     | there         | everywhere  | somewhere  | nowhere  |
+| -am | when      | then          | always      | some time  | never    |
+| -al | why       | therefore     | f every rsn | f some rsn | f no rsn |
+| -om | how much  | that much     | all         | some       | none     |
+| -es | whose     | that person's | everyone's  | someone's  | no-one's |
+
+---
+
 |     |             | ki-  | ti-  | ĉi-   | i-     | neni-  |
 |:----|:------------|:-----|:-----|:------|:-------|:-------|
 |     |             | ?    | !    | *all* | *some* | *none* |
@@ -211,7 +236,6 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 | -om | *how much*  | kiom | tiom | ĉiom  | iom    | neniom |
 | -es | *whose*     | kies | ties | ĉies  | ies    | nenies |
 
-ĉio – everything · nenie – nowhere · ĉiel – in every way · iel – somehow
 
 ## Some important "small" words
 
