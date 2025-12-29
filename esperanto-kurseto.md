@@ -38,7 +38,7 @@ date: December 30th, 2025
 
 ## Sample text
 
-Ni venis al Hamburgo antaŭ tri tagoj por partopreni la kongreson de la
+Ni venis al Hamburgo antaŭ du tagoj por partopreni la kongreson de la
 ĥaoskomputila klubo. Estas nia 8a tia kongreso kaj ni ege ĝuas ĝin. Ni eĉ havas
 nian propran asembleon kun interesa LED-instalaĵo. Nun jam estas la tria tago
 de la kongreso. Tio signifas, ke ni morgaŭ jam devas forveturi.
@@ -74,7 +74,7 @@ Some special characters
 * ĥ - like the "ch" in German "Bach"
 * ŭ – like "u" half vowel
 
-The letters "j" ans "ŭ" are so called *half vowels*, that means they don't have
+The letters "j" and "ŭ" are so called *half vowels*, that means they don't have
 a syllable on their own but form a diphthong.
 
 
@@ -86,7 +86,7 @@ singular:
 
 * mi
 * vi
-* li/ŝi/ĝi/oni
+* li/ŝi/ĝi/oni ("ri" increasingly popular as gender neutral)
 
 plural:
 
@@ -160,7 +160,7 @@ Can also do other things, e.g. indicate direction instead of location:
 :::
 ::: {.column width="60%"}
 * Homoj *kun* komputiloj helpas.
-* Homoj *per* komputiloj helpas.
+* (Homoj *per* komputiloj helpas.)
 * Homoj**n** *kun* komputiloj helpi
 * Homoj**n** *per* komputiloj helpi
 :::
