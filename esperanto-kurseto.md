@@ -2,7 +2,7 @@
 author: Eva 🇸🇰 & Johannes  🇩🇪
 title: 39c3 Esperanto course
 subtitle: A small insight into the constructed living language Esperanto
-date: December 30th, 2025
+date: December 29th, 2025
 ---
 
 # Introduction
