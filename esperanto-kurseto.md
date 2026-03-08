@@ -70,7 +70,7 @@ Some special characters
 * ŝ – like English "sh" like in "fish"
 * ĉ - like the "ch" in English "ouch"
 * ĝ – like the "j" in English "jungle"
-* ĵ - like the "J" in German "Jounalist"
+* ĵ - like the "j" in German "Journalist"
 * ĥ - like the "ch" in German "Bach"
 * ŭ – like "u" half vowel
 
