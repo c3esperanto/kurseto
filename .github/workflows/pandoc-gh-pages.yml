@@ -8,6 +8,9 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+env:
+  REVEAL_JS_VERSION: 5.2.1
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
@@ -30,9 +33,9 @@ jobs:
       - name: Download reveal.js
         run: |
           mkdir _site
-          wget https://github.com/hakimel/reveal.js/archive/master.zip
-          unzip master.zip
-          mv reveal.js-master _site/revealjs
+          wget https://github.com/hakimel/reveal.js/archive/${REVEAL_JS_VERSION}.zip
+          unzip ${REVEAL_JS_VERSION}.zip
+          mv reveal.js-${REVEAL_JS_VERSION} _site/revealjs
       - name: Build english with pandoc
         uses: docker://pandoc/core:3.8
         with:
