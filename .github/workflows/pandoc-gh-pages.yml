@@ -34,7 +34,7 @@ jobs:
           unzip master.zip
           mv reveal.js-master _site/revealjs
       - name: Build english with pandoc
-        uses: docker://pandoc/core:latest
+        uses: docker://pandoc/core:3.8
         with:
           args: >-
             --to revealjs
@@ -44,7 +44,7 @@ jobs:
             -V revealjs-url=./revealjs
             esperanto-kurseto.md
       - name: Build german with pandoc
-        uses: docker://pandoc/core:latest
+        uses: docker://pandoc/core:3.8
         with:
           args: >-
             --to revealjs
