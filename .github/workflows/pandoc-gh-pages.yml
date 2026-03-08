@@ -33,7 +33,7 @@ jobs:
           wget https://github.com/hakimel/reveal.js/archive/master.zip
           unzip master.zip
           mv reveal.js-master _site/revealjs
-      - name: Build with pandoc
+      - name: Build english with pandoc
         uses: docker://pandoc/core:latest
         with:
           args: >-
@@ -43,6 +43,16 @@ jobs:
             --include-in-header=slides.css
             -V revealjs-url=./revealjs
             esperanto-kurseto.md
+      - name: Build german with pandoc
+        uses: docker://pandoc/core:latest
+        with:
+          args: >-
+            --to revealjs
+            --standalone
+            --output=_site/index-de.html
+            --include-in-header=slides.css
+            -V revealjs-url=./revealjs
+            esperanto-kurseto-de.md
       - name: Copy images
         run: cp -r images _site
       - name: Upload artifact
