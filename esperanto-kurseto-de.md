@@ -174,33 +174,33 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 ## Die Macht von Affixen
 
-|        |         | -in-       | vir-       | -id-         | -ar-     | -ej-      | -ist-      |
-|:-------|:--------|:-----------|:-----------|:-------------|:---------|:----------|:-----------|
-|        |         | *weiblich* | *männlich* | *Abstammung* | *Gruppe* | *Ort*     | *Beruf*    |
-| ŝafo   | *sheep* | ewe        | ram        | lamb         | flock    | sheepfold | shepherd   |
-| hundo  | *dog*   | bitch      | dog        | puppy        | pack     | kennel    | dog keeper |
-| bovo   | *cow*   | cow        | bull       | calf         | herd     | cowshed   | cowherd    |
-| ĉevalo | *horse* | mare       | stallion   | foal         | herd     | stable    | horseman   |
+|        |          | -in-     | vir-     | -id-      | -ar-     | -ej-    | -ist-   |
+|:-------|:---------|:---------|:---------|:----------|:---------|:--------|:--------|
+|        |          | *weibl.* | *männl.* | *Ableger* | *Gruppe* | *Ort*   | *Beruf* |
+| ŝafo   | *Schaf** | ?        | Widder   | Lamm      | -herde   | -stall  | Schäfer |
+| hundo  | *Hund**  | Hündin   | Rüde     | Welpe     | Rudel    | Zwinger | ?       |
+| bovo   | *Rind**  | Kuh      | Stier    | Kalb      | -herde   | -stall  | Kuhhirt |
+| ĉevalo | *Pferd** | Stute    | Hengst   | Fohlen    | -herde   | Box     | ?       |
 
 ---
 
-|        |         | -in-       | vir-        | -id-         | -ar-       | -ej-       | -ist-       |
-|:-------|:--------|:-----------|:------------|:-------------|:-----------|:-----------|:------------|
-|        |         | *weiblich* | *männlich*  | *Abstammung* | *Gruppe*   | *Ort*      | *Beruf*     |
-| ŝafo   | *Schaf* | ŝaf*in*o   | *vir*ŝafo   | ŝaf*id*o     | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
-| hundo  | *Hund*  | hund*in*o  | *vir*hundo  | hund*id*o    | hund*ar*o  | hund*ej*o  | hund*ist*o  |
-| bovo   | *Rind*  | bov*in*o   | *vir*bovo   | bov*id*o     | bov*ar*o   | bov*ej*o   | bov*ist*o   |
-| ĉevalo | *Pferd* | ĉeval*in*o | *vir*ĉevalo | ĉeval*id*o   | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
+|        |         | -in-       | vir-        | -id-       | -ar-       | -ej-       | -ist-       |
+|:-------|:--------|:-----------|:------------|:-----------|:-----------|:-----------|:------------|
+|        |         | *weibl.*   | *männl.*    | *Ableger*  | *Gruppe*   | *Ort*      | *Beruf*     |
+| ŝafo   | *Schaf* | ŝaf*in*o   | *vir*ŝafo   | ŝaf*id*o   | ŝaf*ar*o   | ŝaf*ej*o   | ŝaf*ist*o   |
+| hundo  | *Hund*  | hund*in*o  | *vir*hundo  | hund*id*o  | hund*ar*o  | hund*ej*o  | hund*ist*o  |
+| bovo   | *Rind*  | bov*in*o   | *vir*bovo   | bov*id*o   | bov*ar*o   | bov*ej*o   | bov*ist*o   |
+| ĉevalo | *Pferd* | ĉeval*in*o | *vir*ĉevalo | ĉeval*id*o | ĉeval*ar*o | ĉeval*ej*o | ĉeval*ist*o |
 
 ---
 
-|        |             | -il-       | -ej-       | -ist-        | -ind-       | -em-       | -ul-         |
-|:-------|:------------|:-----------|:-----------|:-------------|:------------|:-----------|:-------------|
-|        |             | *weiblich* | *männlich* | *Abstammung* | *Gruppe*    | *Ort*      | *Beruf*      |
-| lerni  | *lernen*    | lern*il*o  | lern*ej*o  | lern*ist*o   | lern*ind*a  | lern*em*a  | lernem*ul*o  |
-| manĝi  | *essen*     | manĝ*il*o  | manĝ*ej*o  | manĝ*ist*o   | manĝ*ind*a  | manĝ*em*a  | manĝem*ul*o  |
-| muziko | *Musik*     | muzik*il*o | muzik*ej*o | muzik*ist*o  | muzik*ind*a | muzik*em*a | muzikem*ul*o |
-| naĝi   | *schwimmen* | naĝ*il*o   | naĝ*ej*o   | naĝ*ist*o    | naĝ*ind*a   | naĝ*em*a   | naĝem*ul*o   |
+|        |             | -il-       | -ej-       | -ist-       | -ind-       | -em-       | -ul-         |
+|:-------|:------------|:-----------|:-----------|:------------|:------------|:-----------|:-------------|
+|        |             | *weibl.*   | *männl.*   | *Ableger*   | *Gruppe*    | *Ort*      | *Beruf*      |
+| lerni  | *lernen*    | lern*il*o  | lern*ej*o  | lern*ist*o  | lern*ind*a  | lern*em*a  | lernem*ul*o  |
+| manĝi  | *essen*     | manĝ*il*o  | manĝ*ej*o  | manĝ*ist*o  | manĝ*ind*a  | manĝ*em*a  | manĝem*ul*o  |
+| muziko | *Musik*     | muzik*il*o | muzik*ej*o | muzik*ist*o | muzik*ind*a | muzik*em*a | muzikem*ul*o |
+| naĝi   | *schwimmen* | naĝ*il*o   | naĝ*ej*o   | naĝ*ist*o   | naĝ*ind*a   | naĝ*em*a   | naĝem*ul*o   |
 
 
 ## Korrelative
