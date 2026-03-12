@@ -330,4 +330,4 @@ La evento estas bone organiz*it*a.
 
 Koran dankon – Vielen Dank
 
-![https://github.com/c3esperanto/kurseto](images/qr-code.svg){ width=12em, height=12em }
+![https://c3esperanto.github.io/kurseto/index-de.html](images/qr-code-de.svg){ width=12em, height=12em }
