@@ -140,7 +140,7 @@ La kanto estas bel*a* kaj ŝi bel*e* kantis ĝin.
 Markiert das direkte Objekt
 
 * Mi amas vi*n*
-* Ĉu vi ŝatas la kongreso*n*?
+* Ĉu vi ŝatas biero*n*?
 * Ŝi manĝas dolĉaj*n* pomoj*n*.
 
 
@@ -174,13 +174,13 @@ Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 ## Die Macht der Affixe
 
-|        |          | -in-     | vir-     | -id-      | -ar-     | -ej-    | -ist-   |
-|:-------|:---------|:---------|:---------|:----------|:---------|:--------|:--------|
-|        |          | *weibl.* | *männl.* | *Ableger* | *Gruppe* | *Ort*   | *Beruf* |
-| ŝafo   | *Schaf** | ?        | Widder   | Lamm      | -herde   | -stall  | Schäfer |
-| hundo  | *Hund**  | Hündin   | Rüde     | Welpe     | Rudel    | Zwinger | ?       |
-| bovo   | *Rind**  | Kuh      | Stier    | Kalb      | -herde   | -stall  | Kuhhirt |
-| ĉevalo | *Pferd** | Stute    | Hengst   | Fohlen    | -herde   | Box     | ?       |
+|        |         | -in-     | vir-     | -id-      | -ar-     | -ej-    | -ist-   |
+|:-------|:--------|:---------|:---------|:----------|:---------|:--------|:--------|
+|        |         | *weibl.* | *männl.* | *Ableger* | *Gruppe* | *Ort*   | *Beruf* |
+| ŝafo   | *Schaf* | ?        | Widder   | Lamm      | -herde   | -stall  | Schäfer |
+| hundo  | *Hund*  | Hündin   | Rüde     | Welpe     | Rudel    | Zwinger | ?       |
+| bovo   | *Rind*  | Kuh      | Stier    | Kalb      | -herde   | -stall  | Kuhhirt |
+| ĉevalo | *Pferd* | Stute    | Hengst   | Fohlen    | -herde   | Gestüt  | ?       |
 
 ---
 
@@ -266,7 +266,7 @@ DemoZ estas bone organiz*at*a.
 La evento estas bone organiz*it*a.
 
 
-# Resources
+# Links
 
 ## Lernen
 
@@ -276,7 +276,7 @@ La evento estas bone organiz*it*a.
 * [Online Wörterbuch (mehrsprachig)](https://reta-vortaro.de)
 * [Online Wörterbuch](https://vortaro.net)
 
-## Gruppen
+## Gruppen / Vereine
 
 * [Telegram](https://telegramo.org)
 * [reddit](https://reddit.com/r/esperanto)
@@ -284,8 +284,12 @@ La evento estas bone organiz*it*a.
 * [Mastodon instance](https://esperanto.masto.host)
 * [Amikumu](https://amikumu.com) – eine App um Esperantosprecher in der Nähe zu finden
 * [Pasporta Servo](https://pasportaservo.org) – eine Art Couchsurfing für Esperantosprecher
+* [Deutsche Esperanto Bund](https://esperanto.de)
+* [Deutsche Esperanto Jugend](https://esperantojugend.de)
+* [Esperanto Weltbund](https://uea.org)
+* [Welt Esperanto Jugend](https://tejo.org)
 
-## Musik
+## Musik (kleine Auswahl)
 
 * [Awesome Esperanto music videos](https://www.youtube.com/playlist?list=PLLg4HNcQo8zx3IMEXcrnRCkEhyXWDDf37)
 * [Vinilkosmo – Music label](https://www.vinilkosmo-mp3.com/en/)
@@ -308,7 +312,8 @@ La evento estas bone organiz*it*a.
 * [Studio](http://novajhoj.weebly.com/)
 * [kern.punkto](https://kern.punkto.info) – unser eigener Podcast
 * [Esperanto natives](https://www.youtube.com/watch?v=UzDS2WyemBI)
-* [TEJO Esperanto](https://www.youtube.com/channel/UC1cW8y4NncmbRr6zD5IO8xw/videos)
+* [TEJO Esperanto](https://www.youtube.com/c/tejoesperanto)
+* [UEA facila](https://uea.facila.org/) – einfache Texte vom Esperanto Weltbund
 
 ## Kongresse, Treffen (kleine Auswahl)
 
@@ -316,6 +321,8 @@ La evento estas bone organiz*it*a.
 * [Internationaler Jugend Kongress](https://en.wikipedia.org/wiki/International_Youth_Congress)
 * [Esperanto Sommerschule](https://ses.ikso.net)
 * [Esperanto Jugend Woche (Neujahr)](http://jes.pej.pl)
+* [Eventa Servo](https://eventaservo.org) – Datenbank für Kongresse und Events
+* [Esperanto Stuttgart](https://eventaservo.org/o/EO_Stuttgart)
 
 
 # Follow up …
