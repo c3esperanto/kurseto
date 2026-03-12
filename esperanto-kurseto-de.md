@@ -52,7 +52,7 @@ kultura interŝanĝo. Ni okazigas tie ankaŭ renkontiĝojn de la loka grupo de l
 * keine langen und kurzen Vokale
 
 
-## The alphabet
+## Das Alfabet
 
 Übliches lateinisches Alphabet mit ein paar Änderungen
 
@@ -68,7 +68,7 @@ Ein paar spezielle Buchstaben (Diakritika)
 * ŝ – wie das "sch" im Deutschen "Fisch"
 * ĉ - wie das "tsch" im Deutschen "Autsch"
 * ĝ – wie das "j" im Deutschen "Jungle"
-* ĵ - wie das "j" im Deutschen n "Journalist"
+* ĵ - wie das "j" im Deutschen "Journalist"
 * ĥ - wie das "ch" im Deutschen "Bach"
 * ŭ – wie "u" als Halbvokal
 
@@ -122,13 +122,13 @@ Mi amas vin. – Ni trinkas bieron. – Ili manĝas picon.
 
 Ludwigsburg estas bela urbo.  Stuttgart estas granda.
 
-## Abgeleitete Adverbian
+## Abgeleitete Adverbien
 
 * *-e* (bele, grande, ruĝe, verde, dolĉe, plaĉe)
 
 La kanto estas bel*a* kaj ŝi bel*e* kantis ĝin.
 
-## Yes/No questions
+## Ja/Nein Fragen
 
 * **Ĉu** vi ŝatas iri al DemoZ?
 * *Jes*, mi ŝatas iri al DemoZ. / *Ne*, mi ne ŝatas iri al DemozZ.
@@ -164,7 +164,7 @@ Andere Anwendungen z.B. Unterscheidung zwischen Ort und Richtung
 :::
 ::::::::::::::
 
-## Affixes
+## Affixe
 
 * *-eg-*: granda → grand*eg*a — gorß → riesig
 * *mal-*: granda → *mal*granda – groß → klein
@@ -172,7 +172,7 @@ Andere Anwendungen z.B. Unterscheidung zwischen Ort und Richtung
 Hamburgo estas grandega urbo. – Püttlingen estas malgranda urbo.
 
 
-## Die Macht von Affixen
+## Die Macht der Affixe
 
 |        |          | -in-     | vir-     | -id-      | -ar-     | -ej-    | -ist-   |
 |:-------|:---------|:---------|:---------|:----------|:---------|:--------|:--------|
@@ -303,14 +303,14 @@ La evento estas bone organiz*it*a.
 * [Gijom - La postrompiĝa temp'](https://www.youtube.com/watch?v=-XiqpAjPd8A)
 * [Gijom - Kortuŝa Eksces'](https://www.youtube.com/watch?v=WencRDLDJVY)
 
-## Videos podcasts etc.
+## Videos, Podcasts etc.
 
 * [Studio](http://novajhoj.weebly.com/)
 * [kern.punkto](https://kern.punkto.info) – unser eigener Podcast
 * [Esperanto natives](https://www.youtube.com/watch?v=UzDS2WyemBI)
 * [TEJO Esperanto](https://www.youtube.com/channel/UC1cW8y4NncmbRr6zD5IO8xw/videos)
 
-## Congresses, meetups (small selection)
+## Kongresse, Treffen (kleine Auswahl)
 
 * [Esperanto Weltkongres](https://en.wikipedia.org/wiki/World_Esperanto_Congress)
 * [Internationaler Jugend Kongress](https://en.wikipedia.org/wiki/International_Youth_Congress)
